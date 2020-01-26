@@ -4,6 +4,8 @@
 
 * [Objectives](##Objective)
 * [Want to collaborate](##Want to collaborate)
+* [Contributors](##Contributors)
+* [License](##LICENSE)
 
 
 ## Objective:
@@ -13,6 +15,7 @@
 - Send data to remote cloud server (yet to be set up).
 
 ## Want to collaborate:
+
 **Step: 1**
 >>> fork this [Repository](https://github.com/ravireddy07/PeopleCounterAppAtEdge.git) to your github and clone into your local machine.
 
