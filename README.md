@@ -1,6 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/ravireddy07/PeopleCounterAppAtEdge.svg)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/ravireddy07/PeopleCounterAppAtEdge.svg)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/pulls)
-[![GitHub forks](	https://img.shields.io/github/forks/ravireddy07/PeopleCounterAppAtEdge.svg?style=social&label=Fork)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/network)
+[![GitHub forks](https://img.shields.io/github/forks/ravireddy07/PeopleCounterAppAtEdge.svg?style=social&label=Fork)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/network)
 [![GitHub stars](https://img.shields.io/github/stars/ravireddy07/PeopleCounterAppAtEdge.svg?style=social&label=Stars)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/stargazers)
 [![GitHub watchers](https://img.shields.io/github/watchers/ravireddy07/PeopleCounterAppAtEdge.svg?style=social&label=Watch)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/watchers)
 [![GitHub License](https://img.shields.io/github/license/ravireddy07/PeopleCounterAppAtEdge)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/LICENSE)
@@ -28,24 +28,24 @@
 
 
 **Step: 2**
-    - Create a branch and make sure to commit all your changes on branch only. it would be easy and clean.
-    - Experiment, work and when its satisfactory and good to be updated.
-    - commit all your changes on your _branch_.
-    - push them to your fork.
+>   - Create a branch and make sure to commit all your changes on branch only. it would be easy and clean.
+>   - Experiment, work and when its satisfactory and good to be updated.
+>   - commit all your changes on your _branch_.
+>   - push them to your fork.
 
 ```git
 git push yourBranchName
 ```
 
 **Step: 3**
-    - Go to the main Repo on your GitHub where you should now see your new branch.
-    - Click on your branch name
-    - Click on _Pull Request_ button (URC)
-    - Click on _Send Pull Request_
+>   - Go to the main Repo on your GitHub where you should now see your new branch.
+>   - Click on your branch name
+>   - Click on _Pull Request_ button (URC)
+>   - Click on _Send Pull Request_
 
 **Step: 4**
-    - And that's it.
-    - wait for the admin/moderators response to merge the request.
+>   - And that's it.
+>   - wait for the admin/moderators response to merge the request.
 
 
 
