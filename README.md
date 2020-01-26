@@ -1,6 +1,14 @@
+[![GitHub issues](https://img.shields.io/github/issues/ravireddy07/PeopleCounterAppAtEdge.svg)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/ravireddy07/PeopleCounterAppAtEdge.svg)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/pulls)
+[![GitHub forks](	https://img.shields.io/github/forks/ravireddy07/PeopleCounterAppAtEdge.svg?style=social&label=Fork)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/network)
+[![GitHub stars](https://img.shields.io/github/stars/ravireddy07/PeopleCounterAppAtEdge.svg?style=social&label=Stars)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/ravireddy07/PeopleCounterAppAtEdge.svg?style=social&label=Watch)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/watchers)
+[![GitHub License](https://img.shields.io/github/license/ravireddy07/PeopleCounterAppAtEdge)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/LICENSE)
+
+
 # People Counter App At The Edge
 
->>> The application counts the people in the current frame, the duration that a person is in the frame(Time elapsed between entering and exiting a frame), and the total number of unique people seen.
+> The application counts the people in the current frame, the duration that a person is in the frame(Time elapsed between entering and exiting a frame), and the total number of unique people seen.
 
 
 ## Objective:
@@ -14,7 +22,7 @@
 ## Want_to_collaborate:
 
 **Step: 1**
->>> fork this [Repository](https://github.com/ravireddy07/PeopleCounterAppAtEdge.git) to your github and clone into your local machine.
+> fork this [Repository](https://github.com/ravireddy07/PeopleCounterAppAtEdge.git) to your github and clone into your local machine.
 
 ![Image](https://user-images.githubusercontent.com/26524467/73133782-8a00e880-4053-11ea-9dad-e05df825c76e.png)
 
