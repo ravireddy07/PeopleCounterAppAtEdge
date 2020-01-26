@@ -1,12 +1,6 @@
 # People Counter App At The Edge
 
-## **Table of Contents**
-
-* [Objectives](##Objective)
-* [Want to collaborate](## Want_to_collaborate)
-* [Contributors](##Contributors)
-* [License](##LICENSE)
-
+>>> The application counts the people in the current frame, the duration that a person is in the frame(Time elapsed between entering and exiting a frame), and the total number of unique people seen.
 
 
 ## Objective:
