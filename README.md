@@ -3,9 +3,10 @@
 ## **Table of Contents**
 
 * [Objectives](##Objective)
-* [Want to collaborate](##Want to collaborate)
+* [Want to collaborate](## Want to collaborate)
 * [Contributors](##Contributors)
 * [License](##LICENSE)
+
 
 
 ## Objective:
@@ -13,6 +14,8 @@
 - Count them(uniquely).
 - Determine gender
 - Send data to remote cloud server (yet to be set up).
+
+
 
 ## Want to collaborate:
 
@@ -41,12 +44,16 @@ git push yourBranchName
     - And that's it.
     - wait for the admin/moderators response to merge the request.
 
+
+
 ## Contributors
 
 You will find yourself in contributors list once your moderator is approved and merged into [PeopleCounterAppAtEdge](https://github.com/ravireddy07/PeopleCounterAppAtEdge) Repo.
 Here you goes to find all the contributors:
 ![Image](https://user-images.githubusercontent.com/26524467/73133833-30e58480-4054-11ea-89a3-cfc24d550075.png)
 
-##LICENSE
+
+
+## LICENSE
 
 - [LICENSE](https://github.com/ravireddy07/PeopleCounterAppAtEdge/LICENSE)
