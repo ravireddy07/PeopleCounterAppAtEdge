@@ -13,11 +13,20 @@
 
 ## Objective:
 - Detect people in the feed.
+- The number of people in frame
+- Average duration spent in frame .
+- The total number of people counted so far.
 - Count them(uniquely).
-- Determine gender
-- Send data to remote cloud server (yet to be set up).
+- Gender wise count [that may be done later]
+- Send data to remote  web server (yet to be set up).
 
+## Steps:
 
+- Convert a model to an Intermediate Representation (IR)
+- Use the IR with the Inference Engine
+- Process the output of the model to gather relevant statistics
+- Send those statistics to a server, and
+- Perform analysis on both the performance and further use cases of your model
 
 ## Want_to_collaborate:
 
