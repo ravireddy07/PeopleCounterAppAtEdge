@@ -5,6 +5,8 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/ravireddy07/PeopleCounterAppAtEdge.svg?style=social&label=Watch)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/watchers)
 [![GitHub License](https://img.shields.io/github/license/ravireddy07/PeopleCounterAppAtEdge)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/LICENSE)
 
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ravireddy07/PeopleCounterAppAtEdge?logo=github)](https://ravireddy07.github.io/PeopleCounterAppAtEdge/) [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ravireddy07/PeopleCounterAppAtEdge?color=bluevoilet&logo=github)](https://github.com/ravireddy07/PeopleCounterAppAtEdge/commits/)  [![GitHub repo size](https://img.shields.io/github/repo-size/ravireddy07/PeopleCounterAppAtEdge?logo=github)](https://ravireddy07.github.io/PeopleCounterAppAtEdge/)
+
 
 # People Counter App At The Edge
 
